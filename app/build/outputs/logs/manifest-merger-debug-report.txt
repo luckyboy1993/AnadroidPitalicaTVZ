@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d93ecf033558d87ca1fe82b333c37074\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3e7c410a775de5863c020aeb0e89f27f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\754877862943b19467688dafb65e39a2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\06ed2129e3d567a2598c1415383f32cf\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f895630dc5a6aa832ca0df1ba4552d3e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b3e347da9122fd9d6c830d518e717b8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ff8a9efbf44a7d1420ef44ec5b7f0837\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8bfa2bcff0c148bc54b6cee4cdd759a6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8acf7996af222c9a47ab13b0951a9358\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\24cf3f11393801029a9371cb27a7be8a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3cf4c8fdd4ef9d92dd2d54512ea0a666\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f0bb34543b29e4e388c413c34e2e426\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:11:5-27:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d93ecf033558d87ca1fe82b333c37074\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d93ecf033558d87ca1fe82b333c37074\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3e7c410a775de5863c020aeb0e89f27f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3e7c410a775de5863c020aeb0e89f27f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\754877862943b19467688dafb65e39a2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\754877862943b19467688dafb65e39a2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\06ed2129e3d567a2598c1415383f32cf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\06ed2129e3d567a2598c1415383f32cf\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f895630dc5a6aa832ca0df1ba4552d3e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f895630dc5a6aa832ca0df1ba4552d3e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b3e347da9122fd9d6c830d518e717b8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b3e347da9122fd9d6c830d518e717b8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ff8a9efbf44a7d1420ef44ec5b7f0837\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ff8a9efbf44a7d1420ef44ec5b7f0837\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8bfa2bcff0c148bc54b6cee4cdd759a6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8bfa2bcff0c148bc54b6cee4cdd759a6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8acf7996af222c9a47ab13b0951a9358\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8acf7996af222c9a47ab13b0951a9358\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\24cf3f11393801029a9371cb27a7be8a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\24cf3f11393801029a9371cb27a7be8a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3cf4c8fdd4ef9d92dd2d54512ea0a666\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3cf4c8fdd4ef9d92dd2d54512ea0a666\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f0bb34543b29e4e388c413c34e2e426\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f0bb34543b29e4e388c413c34e2e426\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.pitalicatvzandroid.activity.MainActivity
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:18:9-23:20
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:18:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.pitalicatvzandroid.activity.MenuActivity
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:24:9-59
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:24:19-56
+activity#com.example.pitalicatvzandroid.activity.TakenActivity
+ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml:25:19-57
+uses-sdk
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d93ecf033558d87ca1fe82b333c37074\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d93ecf033558d87ca1fe82b333c37074\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3e7c410a775de5863c020aeb0e89f27f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\3e7c410a775de5863c020aeb0e89f27f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\754877862943b19467688dafb65e39a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\754877862943b19467688dafb65e39a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\06ed2129e3d567a2598c1415383f32cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\06ed2129e3d567a2598c1415383f32cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f895630dc5a6aa832ca0df1ba4552d3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f895630dc5a6aa832ca0df1ba4552d3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b3e347da9122fd9d6c830d518e717b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b3e347da9122fd9d6c830d518e717b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ff8a9efbf44a7d1420ef44ec5b7f0837\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ff8a9efbf44a7d1420ef44ec5b7f0837\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8bfa2bcff0c148bc54b6cee4cdd759a6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8bfa2bcff0c148bc54b6cee4cdd759a6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8acf7996af222c9a47ab13b0951a9358\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8acf7996af222c9a47ab13b0951a9358\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\24cf3f11393801029a9371cb27a7be8a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\24cf3f11393801029a9371cb27a7be8a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3cf4c8fdd4ef9d92dd2d54512ea0a666\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3cf4c8fdd4ef9d92dd2d54512ea0a666\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f0bb34543b29e4e388c413c34e2e426\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f0bb34543b29e4e388c413c34e2e426\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucian\Desktop\PitalicaTVZAndroid\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d93ecf033558d87ca1fe82b333c37074\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d93ecf033558d87ca1fe82b333c37074\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\754877862943b19467688dafb65e39a2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\754877862943b19467688dafb65e39a2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\06ed2129e3d567a2598c1415383f32cf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\06ed2129e3d567a2598c1415383f32cf\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f895630dc5a6aa832ca0df1ba4552d3e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\f895630dc5a6aa832ca0df1ba4552d3e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b3e347da9122fd9d6c830d518e717b8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\3b3e347da9122fd9d6c830d518e717b8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ff8a9efbf44a7d1420ef44ec5b7f0837\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ff8a9efbf44a7d1420ef44ec5b7f0837\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8bfa2bcff0c148bc54b6cee4cdd759a6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8bfa2bcff0c148bc54b6cee4cdd759a6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8acf7996af222c9a47ab13b0951a9358\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8acf7996af222c9a47ab13b0951a9358\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\24cf3f11393801029a9371cb27a7be8a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\24cf3f11393801029a9371cb27a7be8a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3cf4c8fdd4ef9d92dd2d54512ea0a666\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\3cf4c8fdd4ef9d92dd2d54512ea0a666\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f0bb34543b29e4e388c413c34e2e426\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2f0bb34543b29e4e388c413c34e2e426\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\86eefb8a611ccefd8b40b2a6a323314c\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Lucian\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\2e278b6b8ac46e36def06e2dc4ebabb3\AndroidManifest.xml:26:13-58
